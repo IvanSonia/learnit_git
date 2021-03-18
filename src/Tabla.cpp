@@ -2,7 +2,6 @@
 #include "Tabla.h"
 
 using namespace std;
-
 const int nElementos = 10;
 
 int main()
